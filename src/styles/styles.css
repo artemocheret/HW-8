@@ -13,7 +13,7 @@ p:nth-child(7) {
 p.yellow {
   color: yellow;
 }
-li:nth-child(1) {
+.sweet > li > h2 > a {
   color: red;
 }
 .sweet > li > h2 > a:focus {

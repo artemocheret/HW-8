@@ -1,0 +1,42 @@
+h3:first-child {
+  color: pink;
+}
+#greycol {
+  color: grey;
+}
+.text-box > div > p {
+  color: red;
+}
+p:nth-child(7) {
+  color: green;
+}
+p.yellow {
+  color: yellow;
+}
+li:nth-child(1) {
+  color: red;
+}
+.sweet > li > h2 > a:focus {
+  color: aquamarine;
+}
+.sweet > li > h2 > a:visited {
+  color: rgb(182, 255, 127);
+}
+.sweet > li > h2 > a:link {
+  color: rgb(159, 127, 255);
+}
+li:nth-child(2) {
+  color: blue;
+}
+li:nth-child(8) {
+  color: blue;
+}
+li:nth-child(14) {
+  color: blue;
+}
+li:nth-child(20) {
+  color: blue;
+}
+li:nth-child(26) {
+  color: blue;
+}
